@@ -1,5 +1,9 @@
-The lecture is well documented to follow.
 
-I was able to use GitHub with my assistants in practice, which helped me to get used to it.
+실전 코딩 리뷰
+재성 : 천천히 하시는게 좋으신거같다
+	가끔씩 갑자기 빨리지때가 가끔씩 있는거같다
+	목소리가 좋으시다.
 
-It was nice to follow the lecture because I was good at answering questions.
+재빈 : 질문에 대해 답을 잘해줘서 따라가기 좋았다.
+강의를 따라가기가 쉬웠다.
+마지막에 github를 직접 사용해 실습하는 것이 좋았다.
